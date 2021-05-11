@@ -14,9 +14,8 @@ body {
     color: black;
     height: 100px;
     text-align: center;
-    padding: 5px;
+    line-height: 100px; 
 }
-
 .color {
     background-color: salmon;
     border: 2px solid pink ;
@@ -26,3 +25,40 @@ body {
 {
    height: 100%;
 }
+
+/* BONUS */
+.col2 {
+    background-color: white;
+}
+.c1 {
+    background-color:white
+}
+.c2 {
+    background-color: #E2A43A
+}
+.c3 {
+    background-color:#C0892D
+}
+.c4 {
+    background-color:#FCE19D
+}
+.c5 {
+    background-color:#F2EA30
+}
+.c6 {
+    background-color:#EE2141
+}
+.c7 {
+    background-color:#7B461D
+}
+.c8 {
+    background-color:#85C441
+}
+
+h1 {
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    padding: 50px;
+}
+   
